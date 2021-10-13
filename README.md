@@ -17,5 +17,5 @@ In this repository, I strive to find responses to the questions. My responses ar
 probably erroneous, but that's what GitHub is for, so that people can post corrections.
 
 Some questions:
- - What about the UK data showing you are more likely to be infected if vaccinated?
+ - [x](aq-uk-data-more-infectious.md) What about the UK data showing you are more likely to be infected if vaccinated?
 
