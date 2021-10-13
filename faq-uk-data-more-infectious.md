@@ -22,6 +22,8 @@ The report explains it thusly:
 > unvaccinated people as well as differences in testing patterns.
 
 Yes, this is an unsatisfactory explanation why the *testing* results do not match the
-results from *controlled* testing. However, a quick look at data (such as from OurWorldInData)
+results from *controlled* testing. However, a quick look at [data](uk-infections-v-deaths.csv) (such as from OurWorldInData)
 shows that *testing* numbers as a measure of cases is messed up. The graph below shows
 the correlation problems with testing-vs-deaths.
+
+![](uk-cases-v-deaths.png)
