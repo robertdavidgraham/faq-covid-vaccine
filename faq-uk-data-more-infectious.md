@@ -14,6 +14,10 @@ an outlier. However, infection rates, as determined by voluntary testing, has lo
 known to be problematic and biased. Controlled tests that remove biases show different
 results.
 
+It would be certainly useful to investigate this outlier further, but it doesn't show
+any reason to doubt the wealth of other evidence, especially that of hopsitalizations
+and deaths.
+
 Discussion
 --
 Since vaccinations started, the UK has been publishing reports every week measuring
