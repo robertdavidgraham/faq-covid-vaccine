@@ -1,6 +1,21 @@
 FAQ: Does the UK data show that vaccines make covid more infectious? Maybe through ADE?
 ====
 
+Question
+--
+Reports from the UK health service (like [this one](Vaccine_surveillance_report_-_week_40.pdf))
+seem to show that vaccinations actually increase the rate of infection.
+
+Answer
+--
+Those reports show the benefit from vaccination, with the rate of *hospitalization* and
+*death* many times less among the vaccinated. The bit about infection rate seems to be
+an outlier. However, infection rates, as determined by voluntary testing, has long been
+known to be problematic and biased. Controlled tests that remove biases show different
+results.
+
+Discussion
+--
 Since vaccinations started, the UK has been publishing reports every week measuring
 the efficacy of vaccinations. The data appears to show that if anything, vaccinations
 make it more likely that you'll be infected. An example is this one from
